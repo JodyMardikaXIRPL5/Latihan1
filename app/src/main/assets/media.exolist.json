@@ -1,79 +1,79 @@
 [
   {
-    "name": "Toccata and Fugue in D minor",
+    "name": "Demons",
     "id": 0,
-    "uri": "asset:///toccata_fugue.mp3",
-    "composer": "Johann Sebastian Bach",
-    "albumArtID": "bach"
+    "uri": "asset:///demons.mp3",
+    "composer": "Imagine Dragons",
+    "albumArtID": "imaginedragons"
   },
   {
-    "name": "Fur Elise",
+    "name": "Drown",
     "id": 1,
-    "uri": "asset:///fur_elise.mp3",
-    "composer": "Ludwig van Beethoven",
-    "albumArtID": "beethoven"
+    "uri": "asset:///drown.mp3",
+    "composer": "Bring Me The Horizon",
+    "albumArtID": "bringmethehorizon"
   },
   {
-    "name": "Rondo Alla Turca",
+    "name": "Happy",
     "id": 2,
-    "uri": "asset:///rondo_alla_turca.mp3",
-    "composer": "Wolfgang Amadeus Mozart",
-    "albumArtID": "mozart"
+    "uri": "asset:///happy.mp3",
+    "composer": "Pharrel Williams",
+    "albumArtID": "pharrelwilliams"
   },
   {
-    "name": "Nocturne Op. 9 No. 2",
+    "name": "Heaven",
     "id": 3,
-    "uri": "asset:///nocturne_9_2.mp3",
-    "composer": "Frédéric Chopin",
-    "albumArtID": "chopin"
+    "uri": "asset:///heaven.mp3",
+    "composer": "Byan Adams",
+    "albumArtID": "bryanadamas"
   },
   {
-    "name": "Four Seasons, Spring",
+    "name": "I'm Yours",
     "id": 4,
-    "uri": "asset:///four_seasons_spring.mp3",
-    "composer": "Antonio Vivaldi",
-    "albumArtID": "vivaldi"
+    "uri": "asset:///imyours.mp3",
+    "composer": "Jason Mraz",
+    "albumArtID": "jasonmraz"
   },
   {
-    "name": "Canon and Gigue in D",
+    "name": "Masih Ada",
     "id": 5,
-    "uri": "asset:///canon_in_d.mp3",
-    "composer": "Johann Pachelbel",
-    "albumArtID": "pachelbel"
+    "uri": "asset:///masihada.mp3",
+    "composer": "Ello",
+    "albumArtID": "ello"
   },
   {
-    "name": "Suite Bergamasque, 3rd Movement",
+    "name": "Money",
     "id": 6,
-    "uri": "asset:///clair_de_lune.mp3",
-    "composer": "Claude Debussy",
-    "albumArtID": "debussy"
+    "uri": "asset:///money.mp3",
+    "composer": "Jessie J",
+    "albumArtID": "jessie"
   },
   {
-    "name": "Hungarian Dance No. 5",
+    "name": "Paradise",
     "id": 7,
-    "uri": "asset:///hungarian_dance.mp3",
-    "composer": "Johannes Brahms",
+    "uri": "asset:///paradise.mp3",
+    "composer": "coldplay",
     "albumArtID": "brahms"
   },
   {
-    "name": "Ride of the Valkyries",
+    "name": "R.I.P",
     "id": 8,
-    "uri": "asset:///ride_of_the_valkyries.mp3",
-    "composer": "Richard Wagner",
-    "albumArtID": "wagner"
+    "uri": "asset:///rip.mp3",
+    "composer": "Bondan Prakoso",
+    "albumArtID": "bondanprakoso"
   },
   {
-    "name": "Swan Lake Op. 20, Act II",
+    "name": "River Flows In You",
     "id": 9,
-    "uri": "asset:///swan_lake.mp3",
-    "composer": "Pyotr Ilyich Tchaikovsky",
-    "albumArtID": "tchaikovsky"
+    "uri": "asset:///tiverflowsinyou.mp3",
+    "composer": "Yiruma",
+    "albumArtID": "yiruma"
   },
   {
-    "name": "String Quarter No. 14",
+    "name": "Sebelum Cahaya",
     "id": 10,
-    "uri": "asset:///string_quartet_14.mp3",
-    "composer": "Franz Schubert",
-    "albumArtID": "schubert"
+    "uri": "asset:///sebelumcahaya.mp3",
+    "composer": "Letto",
+    "albumArtID": "letto"
   }
 ]
