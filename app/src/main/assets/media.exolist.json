@@ -25,7 +25,7 @@
     "id": 3,
     "uri": "asset:///heaven.mp3",
     "composer": "Byan Adams",
-    "albumArtID": "bryanadamas"
+    "albumArtID": "bryanadams"
   },
   {
     "name": "I'm Yours",
@@ -52,8 +52,8 @@
     "name": "Paradise",
     "id": 7,
     "uri": "asset:///paradise.mp3",
-    "composer": "coldplay",
-    "albumArtID": "brahms"
+    "composer": "Coldplay",
+    "albumArtID": "coldplay"
   },
   {
     "name": "R.I.P",
@@ -65,7 +65,7 @@
   {
     "name": "River Flows In You",
     "id": 9,
-    "uri": "asset:///tiverflowsinyou.mp3",
+    "uri": "asset:///riverflowsinyou.mp3",
     "composer": "Yiruma",
     "albumArtID": "yiruma"
   },
